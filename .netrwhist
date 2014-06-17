@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/palladiate/.ssh'
+let g:netrw_dirhist_2='/home/palladiate/Net-Symon-Netbrite/lib/Net/Symon/NetBrite'
+let g:netrw_dirhist_3='/var/www/webim/js'
+let g:netrw_dirhist_4='/var/www/webim/styles/simplicity/templates'
+let g:netrw_dirhist_5='/etc/apache2/conf-enabled'
